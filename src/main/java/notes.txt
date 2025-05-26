@@ -1,0 +1,8 @@
+A Simple Netflix Eureka Client as Producer application:
+Programs:
+* SpringBootEurekaClientApplication13Application.java
+* OrderController.java
+Notes:
+
+Output:
+http://localhost:8081/SpringBootEurekaClientApplication13/order/orderDetails
